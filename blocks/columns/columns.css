@@ -7,10 +7,6 @@
   width: 70%;
 }
 
-.columns {
-  background-color: lightblue;
-}
-
 .columns > div > div {
   order: 1;
 }
